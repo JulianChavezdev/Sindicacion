@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="https://www.w3.0rg/2005/Atomn"
+<feed xmlns="http://www.w3.org/2005/Atom"
 xml:lang="es-es">
     <title>Recetas Veganas Faciles</title>
     <link href="https://www.recetasveganasfaciles.com"/>
     <updated>2024-06-01T12:00:00Z</updated>
-    <id>recetasveganasfaciles.com</id>
+    <id>https://www.recetasveganasfaciles.com</id>
     <author>
         <name>Recetas veganas Faciles</name>
     </author>
