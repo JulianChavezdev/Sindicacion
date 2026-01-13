@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="https://www.w3.0rg/2005/Atomn"
+xml:lang="es-es">
+    <title>Recetas Veganas Faciles</title>
+    <link href="https://www.recetasveganasfaciles.com"/>
+    <updated>2024-06-01T12:00:00Z</updated>
+    <id>recetasveganasfaciles.com</id>
+    <author>
+        <name>Recetas veganas Faciles</name>
+    </author>
+        <entry>
+            <title>Paella Vegana</title>
+            <link href="https://www.recetasveganasfaciles.com/paella-vegana"/>
+            <id>https://www.recetasveganasfaciles.com/paella-vegana</id>
+            <updated>2024-06-01T08:00:00Z</updated>
+            <summary>Paella vegana con garbanzos, lentejas tomate y pimientos
+            </summary>
+        </entry>
+                <entry>
+            <title>Lentejas Estofadas</title>
+            <link href="https://www.recetasveganasfaciles.com/lentejas-estofadas"/>
+            <id>https://www.recetasveganasfaciles.com/lentejas-estofadas</id>
+            <updated>2024-05-30T10:30:00Z</updated>
+            <summary>Lentejas estofadas con verduras de temporada y especias.
+            </summary>
+        </entry>
+                <entry>
+            <title>Curry de Garbanzos</title>
+            <link href="https://www.recetasveganasfaciles.com/curry-garbanzos"/>
+            <id>https://www.recetasveganasfaciles.com/curry-garbanzos</id>
+            <updated>2024-05-28T15:00:00Z</updated>
+            <summary>Curry de garbanzos con leche de coco y espinacas.
+            </summary>
+        </entry>
+    
+    
+</feed>
